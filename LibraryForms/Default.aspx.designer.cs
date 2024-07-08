@@ -11,7 +11,7 @@ namespace LibraryForms
 {
 
 
-    public partial class Home
+    public partial class Default
     {
 
         /// <summary>
